@@ -29,7 +29,7 @@ export default function SectionOne() {
 
   {products.map((product) => {
   return (
-    <section key={product.name} className="m-6 md:m-8 p-3 bg-purple-100 border-2 rounded-lg hover:bg-gradient-to-r hover:from-indigo-500 hover:via-purple-500 hover:to-pink-500 hover:text-white">
+    <section key={product.name} className="m-6 md:m-8 p-3 bg-purple-100 dark:bg-neutral-900 border-2 rounded-lg hover:bg-gradient-to-r hover:from-indigo-500 hover:via-purple-500 hover:to-pink-500 hover:text-white">
       <Link target="blank" href={product.url}>
         <div>
           <h1 className="text-xl md:text-2xl text-left font-bold">{product.name}</h1>
