@@ -4,7 +4,7 @@ const products = [
   { name: "TN OS", url: "https://tnos.pages.dev/", content: "A website about a Linux distribution based on the Linux kernel.", },
   { name: "TN Vision", url: "https://tnvision.pages.dev/", content: "A website introducing computer vision services.", },
   { name: "TN GPT", url: "https://tngpt.vercel.app/", content: "A chatbot website using OpenAI API, Google Gemini API, Anthropic Claude API, xAI Grok API.", },
-  { name: "TN News", url: "https://tnnews.pages.dev/", content: "A news website.", },
+  { name: "TN News", url: "https://tnnews.vercel.app/", content: "A news website.", },
   { name: "TN Notes", url: "https://tnnotes.pages.dev/", content: "A notes website.", },
   { name: "TN Dashboard", url: "https://tndashboard.vercel.app/", content: "A dashboard website.", },
   { name: "TN Cake", url: "https://daisycake.pages.dev/", content: "A website about cake.", },
