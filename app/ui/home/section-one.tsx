@@ -10,6 +10,7 @@ const products = [
   { name: "TN Cake", url: "https://daisycake.pages.dev/", content: "A website about cake.", },
   { name: "TN Chain", url: "https://tnchain.vercel.app/", content: "A CDP Wallet Manager website.", },
   { name: "TN Art", url: "https://tnart.pages.dev/", content: "An AI Image Generator Website.", },
+  { name: "TN Tourism", url: "https://tntourism.vercel.app/", content: "A tourism website.", },
   { name: "TN Tasks", url: "https://tntasks.pages.dev/", content: "A tasks website.", },
 ];
 
