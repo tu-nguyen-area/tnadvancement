@@ -10,7 +10,7 @@ export default function Header() {
       <Link href="/">
         TN ADVANCEMENT
       </Link>
-      <p>tudellg33579@protonmail</p>
+      <p>tu-nguyen@tu-nguyen.com</p>
     </section>
 
     <BarNav />
