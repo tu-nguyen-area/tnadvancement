@@ -20,8 +20,8 @@ export default function SectionOne() {
 
   <section className="flex justify-center">
     <div className="m-8">
-    <Link target="blank" href="https://github.com/tunguyenarea">
-      <h1 className="text-center text-2xl md:text-4xl bg-gradient-to-r from-indigo-500 to-pink-500 bg-clip-text font-bold text-transparent w-fit">Github.com/TuNguyenArea</h1>
+    <Link target="blank" href="https://github.com/tu-nguyen-area">
+      <h1 className="text-center text-2xl md:text-4xl bg-gradient-to-r from-indigo-500 to-pink-500 bg-clip-text font-bold text-transparent w-fit">Github.com/Tu-Nguyen-Area</h1>
     </Link>
     <p className="md:text-xl">I am a fan of NextJS, Cloudflare, Linux, Cyborg and Open Source.</p>
     <p className="md:text-xl">I love learning new technology, focusing on building tools that help people make their lives easier.</p>
