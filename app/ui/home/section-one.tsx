@@ -6,12 +6,9 @@ const products = [
   { name: "TN GPT", url: "https://tngpt.vercel.app/", content: "A chatbot website using OpenAI API, Google Gemini API, Anthropic Claude API, xAI Grok API.", },
   { name: "TN News", url: "https://tnnews.vercel.app/", content: "A news website.", },
   { name: "TN Notes", url: "https://tnnotes.pages.dev/", content: "A notes website.", },
-  { name: "TN Dashboard", url: "https://tndashboard.vercel.app/", content: "A dashboard website.", },
   { name: "TN Cake", url: "https://daisycake.pages.dev/", content: "A website about cake.", },
-  { name: "TN Chain", url: "https://tnchain.vercel.app/", content: "A CDP Wallet Manager website.", },
   { name: "TN Art", url: "https://tnart.pages.dev/", content: "An AI Image Generator Website.", },
   { name: "TN Tourism", url: "https://tntourism.vercel.app/", content: "A tourism website.", },
-  { name: "TN Tasks", url: "https://tntasks.pages.dev/", content: "A tasks website.", },
 ];
 
 export default function SectionOne() {
